@@ -1,0 +1,24 @@
+{
+  "name": "parkreact",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.9.3",
+    "firebase": "^5.5.2",
+    "mapbox-gl": "^0.50.0",
+    "react": "^16.5.2",
+    "react-countdown-now": "^1.3.0",
+    "react-dom": "^16.5.2",
+    "react-geolocated": "^2.4.0",
+    "react-google-maps": "^9.4.5",
+    "react-mapbox-gl": "^4.0.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

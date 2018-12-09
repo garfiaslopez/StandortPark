@@ -1,0 +1,29 @@
+{
+  "name": "brake_one_admin",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@react-pdf/renderer": "^1.0.0-alpha.18",
+    "antd": "3.8.0",
+    "html2canvas": "^1.0.0-alpha.12",
+    "jspdf": "^1.4.1",
+    "moment": "2.22.2",
+    "react": "16.4.2",
+    "react-color": "^2.14.1",
+    "react-dom": "16.4.2",
+    "react-geolocated": "^2.4.0",
+    "react-pdf": "^3.0.5",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "1.1.4",
+    "react-swipeable-views": "0.12.16",
+    "react-tap-event-plugin": "3.0.3",
+    "react-to-print": "^2.0.0-alpha-4",
+    "serve": "6.5.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
